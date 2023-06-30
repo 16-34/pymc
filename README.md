@@ -1,5 +1,5 @@
 # pymc
-python mc图像生成
+python minecraft 图像生成
 <br><br>
 .ipynb 程序主体<br>
 1.jpeg 测试用例图片<br>
